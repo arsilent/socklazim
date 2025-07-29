@@ -1,0 +1,14 @@
+{
+  "bypassVersion": 42,
+  "mainURL": "https://adminpanel.in.net/Bypass/GlobalPremium.zip",
+  "global_status": "Online",
+  "korea_status": "Online", 
+  "taiwan_status": "Maintenance",
+  "vietnam_status": "Online",
+  "bgmi_status": "Offline",
+  "global_version": "3.9.0",
+  "korea_version": "3.9.0",
+  "taiwan_version": "3.9.0", 
+  "vietnam_version": "3.9.0",
+  "bgmi_version": "3.9.0"
+}
