@@ -4,31 +4,38 @@
       "title": "PUBG GLOBAL",
       "package": "com.tencent.ig",
       "version": "3.9.0",
-      "status": "Safe"
+      "status": "Safe",
+      "download": "https://github.com/arsilent/socklazim/releases/download/loaders/PUBGLoader.apk"
+        
+        
     },
     {
       "title": "PUBG KOREA",
       "package": "com.pubg.krmobile",
       "version": "3.9.0",
-      "status": "Safe"
+      "status": "Safe",
+      "download": "https://github.com/arsilent/socklazim/releases/download/loaders/PUBGLoader.apk"
     },
       {
         "title": "PUBG VIETNAM",
         "package": "com.vng.pubgmobile",
         "version": "3.9.0",
-        "status": "Safe"
+        "status": "Safe",
+        "download": "https://github.com/arsilent/socklazim/releases/download/loaders/PUBGLoader.apk"
       },
     {
       "title": "PUBG TAIWAN",
       "package": "com.rekoo.pubgm",
       "version": "3.9.0",
-      "status": "Safe"
+      "status": "Safe",
+      "download": "https://github.com/arsilent/socklazim/releases/download/loaders/PUBGLoader.apk"
     },
       {
         "title": "PUBG INDIA",
         "package": "com.pubg.imobile",
         "version": "3.9.0",
-        "status": "Safe"
+        "status": "Safe",
+        "download": "https://github.com/arsilent/socklazim/releases/download/loaders/PUBGLoader.apk"
       }
   ]
 }
